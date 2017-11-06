@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/sociopath
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://adammarshallss.github.io
+  * I am sociopath (https://keybase.io/sociopath) on keybase.
+  * I have a public key ASC2gaZ4DQcLw1Aa1tZgvrBj0WTWshBXpmrXK7D9B9CqeQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b681a6780d070bc3501ad6d660beb063d164d6b21057a66ad72bb0fd07d0aa790a",
+      "host": "keybase.io",
+      "kid": "0120b681a6780d070bc3501ad6d660beb063d164d6b21057a66ad72bb0fd07d0aa790a",
+      "uid": "81d90f325ee34ce1750366e7bb78fa19",
+      "username": "sociopath"
+    },
+    "merkle_root": {
+      "ctime": 1509999868,
+      "hash": "1660b347317a69ac881d1a1dde1e66181bea96c1ae087054b61b31b43073b2270b094090a76bddb7bd786d301156bede99fdc1294e23cfe1053b7f4e2deedfa2",
+      "hash_meta": "dad3d4731996649b1ac42e4f911736982499d28f8a1074b2b85480bc09f1ac23",
+      "seqno": 1673499
+    },
+    "service": {
+      "hostname": "adammarshallss.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1509999885,
+  "expire_in": 504576000,
+  "prev": "79ac64c1a84980894968741555349a76ba3d74078e01ea12f454cd1fc898b139",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtoGmeA0HC8NQGtbWYL6wY9Fk1rIQV6Zq1yuw/QfQqnkKp3BheWxvYWTFA1J7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjY4MWE2NzgwZDA3MGJjMzUwMWFkNmQ2NjBiZWIwNjNkMTY0ZDZiMjEwNTdhNjZhZDcyYmIwZmQwN2QwYWE3OTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjY4MWE2NzgwZDA3MGJjMzUwMWFkNmQ2NjBiZWIwNjNkMTY0ZDZiMjEwNTdhNjZhZDcyYmIwZmQwN2QwYWE3OTBhIiwidWlkIjoiODFkOTBmMzI1ZWUzNGNlMTc1MDM2NmU3YmI3OGZhMTkiLCJ1c2VybmFtZSI6InNvY2lvcGF0aCJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwOTk5OTg2OCwiaGFzaCI6IjE2NjBiMzQ3MzE3YTY5YWM4ODFkMWExZGRlMWU2NjE4MWJlYTk2YzFhZTA4NzA1NGI2MWIzMWI0MzA3M2IyMjcwYjA5NDA5MGE3NmJkZGI3YmQ3ODZkMzAxMTU2YmVkZTk5ZmRjMTI5NGUyM2NmZTEwNTNiN2Y0ZTJkZWVkZmEyIiwiaGFzaF9tZXRhIjoiZGFkM2Q0NzMxOTk2NjQ5YjFhYzQyZTRmOTExNzM2OTgyNDk5ZDI4ZjhhMTA3NGIyYjg1NDgwYmMwOWYxYWMyMyIsInNlcW5vIjoxNjczNDk5fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImFkYW1tYXJzaGFsbHNzLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM0In0sImN0aW1lIjoxNTA5OTk5ODg1LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6Ijc5YWM2NGMxYTg0OTgwODk0OTY4NzQxNTU1MzQ5YTc2YmEzZDc0MDc4ZTAxZWExMmY0NTRjZDFmYzg5OGIxMzkiLCJzZXFubyI6MjQsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA/3kEPNahd4Ag/FyB45/62v3ORBNORHRNnCs1+KngfO8fDmIxbkf5JiMHcT4UQfIa31DygJojnYAYIK6bt7P5DqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMM49tLNR05MIFtdTmzKS+clgEzbrUteF+uTwfvjWkfto3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sociopath
+
+==================================================================
